@@ -1,0 +1,3 @@
+No exercício 3 o tipo da variável é inteiro, assim o resultado que aparece na tela é somente os números que estão antes 
+da vírgula. Já o exercício 4 e 5 são do tipo real, aparecendo os algarismos após a vírgula. 
+Exemplo: na divisão do exercício 3 o resultado é 0, e nos outros dois é 0,75.
