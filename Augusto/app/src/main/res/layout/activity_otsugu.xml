@@ -13,7 +13,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="2008"
+        android:text="@string/botao1"
         android:id="@+id/button"
         android:background="@color/abc_search_url_text_selected"
         android:textColor="#ff915e"
@@ -25,7 +25,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="2016"
+        android:text="@string/botao2"
         android:id="@+id/button2"
         android:background="@color/abc_search_url_text_selected"
         android:textColor="#ff915e"

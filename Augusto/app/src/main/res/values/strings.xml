@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Augusto</string>
+    <string name="app_name">Aplicativo</string>
+    <string name="botao1">2008</string>
+    <string name="botao2">2016</string>
 </resources>
